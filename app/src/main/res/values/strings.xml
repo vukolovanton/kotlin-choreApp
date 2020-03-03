@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChoreApp</string>
+    <string name="icon_chore">icon_chore</string>
+    <string name="assigned_by">Assigned By</string>
+    <string name="date">Date</string>
+    <string name="chore_title">Chore Title</string>
+    <string name="add_chore">Add Chore</string>
+</resources>
